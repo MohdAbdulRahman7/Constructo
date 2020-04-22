@@ -1,0 +1,90 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.row
+{
+	max-width: 1180px;
+	margin: 0 auto;
+
+}
+
+.main-nav
+{
+	float: right;
+	margin-top: -20px;
+
+
+}
+
+.main-nav li
+{
+	display: inline-block;
+	list-style: none;
+	margin-left: 60px;
+}
+
+.main-nav li a
+{
+	padding:5px -20px;
+	color: #000000;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 90%;
+	font-weight: 100;
+}
+
+.main-nav li a:hover
+{
+	border-bottom: 2px solid #ffff00;
+}
+
+
+
+
+
+
+body
+{
+	background-image: url(aboutback.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+
+.heading
+{
+	margin-left: 20px;
+	margin-right: 20px; 
+	margin-top: 30px;
+	background-color:#3BBECD;
+}
+
+.heading h1
+{
+	margin-left: 10px;
+}
+
+.center
+{
+
+
+	display: inline-block;
+	width: calc(100%/2);
+	margin: 0 -2px;
+	text-align: center;
+	margin-left: 350px;
+	padding: 20px;
+	margin-top: 30px;
+	box-sizing: border-box;
+}
+
+
+.center h3
+{
+	
+}

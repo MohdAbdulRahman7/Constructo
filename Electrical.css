@@ -1,0 +1,82 @@
+*
+{
+    margin: 0px;
+    padding: 0px; 
+}
+
+body
+{
+
+    background-image: url(eback.png);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    
+}
+
+body h1
+{
+    font-size: 55px;
+    margin-top: 10px;
+    margin-left: 40px;
+    color: #fff;
+}
+.row
+{
+    max-width: 1180px;
+    margin: 0 auto;
+
+}
+
+.main-nav
+{
+    float: right;
+    margin-top: 38px;
+
+
+}
+
+.main-nav li
+{
+    display: inline-block;
+    list-style: none;
+    margin-left: 60px;
+}
+
+.main-nav li a
+{
+    padding:5px -20px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 90%;
+    font-weight: 100;
+}
+
+.main-nav li a:hover
+{
+    border-bottom: 2px solid #ffff00;
+}
+
+.main 
+{
+    margin-left: 50px;
+    margin-right: 40px;
+}
+
+
+.pipes
+{
+background:#fff;
+margin-left: 35px;
+margin-top: 20px;
+margin-right: 55px;
+height: 30px;
+}
+
+.pipes h3
+{
+    margin-left: 10px;
+    font-size: 25px;
+}
+

@@ -1,0 +1,14 @@
+*
+{
+	margin-left:10px;
+	margin-right: 10px;
+	box-sizing: border-box;
+}
+
+body
+{
+	background-image: url(shipback.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}

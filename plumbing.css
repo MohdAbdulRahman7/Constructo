@@ -1,0 +1,89 @@
+ *
+{
+	margin: 0px;
+	padding: 0px;
+}
+ 
+body
+{
+
+	background-image: url(pbacknew.jpg);
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+	background-size:2000px;
+}
+
+body h1
+{
+	font-size: 55px;
+	margin-top: 10px;
+	margin-left: 40px;
+}
+
+.main
+{
+	margin-left: 40px;
+	
+}
+
+.pipes
+{
+background:#ffffff;
+margin-left: 35px;
+margin-top: 20px;
+margin-right: 55px;
+height: 30px;
+}
+
+.pipes h3
+{
+	margin-left: 10px;
+	font-size: 25px;
+}
+
+ @import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+        *{
+            font-family: 'Titillium Web', sans-serif;
+        }
+        .product{
+            border: 1px solid #eaeaec;
+            margin: -1px 19px 3px -1px;
+            padding: 10px;
+            text-align: center;
+            background-color: #efefef;
+        }
+        table, th, tr{
+            text-align: center;
+        }
+        .title2{
+            text-align: center;
+            color: #66afe9;
+            background-color: #efefef;
+            padding: 2%;
+        }
+        h2{
+            text-align: center;
+            color: #66afe9;
+            background-color: #efefef;
+            padding: 2%;
+        }
+        table th{
+            background-color: #efefef;
+        }
+
+
+.tee
+{
+background:#ffffff;
+margin-left: 35px;
+margin-top: 20px;
+margin-right: 55px;
+height: 30px;
+}
+
+.tee h3
+{
+    margin-left: 10px;
+    font-size: 25px;
+}

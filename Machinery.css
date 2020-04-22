@@ -1,0 +1,68 @@
+  *
+{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+
+}
+
+
+
+body
+{
+	background-image: url(mback.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+
+}
+
+h1
+{
+	font-size: 75px;
+	font-family: 'Flamenco', cursive;
+	color: #fff;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+
+
+.row
+{
+	max-width: 1200px;
+	margin: 0 auto;
+
+}
+
+.main-nav
+{
+	float: right;
+	margin-top: 38px;
+
+
+}
+
+.main-nav li
+{
+	display: inline-block;
+	list-style: none;
+	margin-left: 60px;
+}
+
+.main-nav li a
+{
+	padding:5px -20px;
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 90%;
+	font-weight: 100;
+}
+
+.main-nav li a:hover
+{
+	border-bottom: 2px solid #ffff00;
+}
+
+
+
